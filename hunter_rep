@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+RGoogleAnalytics.Rproj
+.httr-oauth
+.Rbuildignore
+.httr-oauth
+cache/**
+token_file
